@@ -1,7 +1,7 @@
 const arr = ['ram', 'shyam', 'hari']
 
-arr.map(item => {
-    if(item != hari) {
-        console.log(item)
+arr.filter(item => {
+    if(item != "hari") {
+        return item
     }
 })
