@@ -1,7 +1,7 @@
  let a= 1;
   let b='2';
- let c=true;
-let d=false;
+ let x=true;
+let y=false;
 console.log(typeof d)
 
 
