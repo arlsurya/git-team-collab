@@ -3,3 +3,4 @@ const obj = {
     subject: "MERN",
     address: "Baneshwor"
 }
+console.log(obj);
