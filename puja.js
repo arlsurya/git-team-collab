@@ -12,8 +12,8 @@ console.log(person.name)
 
 //creating array
 const arr=[3,4,5,6,]
-let sum=1
-arr.map((item,id)=>{
+let sum=0
+arr.map((item,id)=> {
 sum=sum+item
 })
 console.log(sum)
