@@ -1,0 +1,12 @@
+ let a= 1;
+  let b='2';
+ let x=true;
+let y=false;
+console.log(typeof d)
+
+
+let z=10;
+function addSum(){
+  
+    z++
+}
